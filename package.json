@@ -2,10 +2,10 @@
   "name": "books-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://slipuykamin.github.io/books-project",
+  "homepage": "https://VitekVP.github.io/books-team-project",
   "scripts": {
     "start": "parcel src/*.html -p 8999",
-    "build": "parcel build src/*.html --public-url /books-project/"
+    "build": "parcel build src/*.html --public-url /books-team-project/"
   },
   "repository": {
     "type": "git",
